@@ -1,0 +1,2 @@
+# AI-Driven-Employee-Performance-Analysis-and-Keyword-Generation-in-the-Restaurant-Industry-
+•Generating keywords based on categories and ratings using AI. •Project focuses on employees in the restaurant industry. •Data sourced from customer ratings and feedback. •Feedback categories include Personality, Professionalism, Communication, Knowledge, and Leadership. •Utilized various classification models, including Decision Trees
